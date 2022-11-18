@@ -5,7 +5,7 @@ tags:
   - Consciousness
 ---
 
-![](https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/night.png)
+![](https://pic.imgdb.cn/item/63770bf816f2c2beb1072f60.png)
 
 Because of insomnia, I woke up late, without out any energy. Noticed that it was already 7:49, I hurried to school and was grasping for breath desperately after my arrival, only to find my blurred vision of everything around me - I forget to bring my glasses! Wondering why people's mind is so delicate that it needs to be recharged everyday to keep one's sanity, if so called “sanity" really exists,  I began to prepare for the lessons. 
 

@@ -5,7 +5,7 @@ tags:
   - Consciousness
 ---
 
-![](https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/transitions.jpg)
+![](https://pic.imgdb.cn/item/63770acd16f2c2beb1054414.jpg)
 
 At first, he thought he was in love with Haskell, for he could program in it every day without feeling bored. But later, some dark currents flowing under the seemingly blissful moments began to invade his senses, unfothomable fear of losing his authentic Self floating on the lake of the Heart, mocking at his conformity and self-deception. At the same time, a strong force was pulling him unto a different state of being, and this force was not coming from the outer world but always running in his own veins, waiting their voices finally to be heard. This is a yearning towards Beauty thus Eternity, and ultimately Freedom. 
 
