@@ -1,0 +1,22 @@
+---
+title: Dorian Gray
+date: 2022-12-01
+tags:
+  - Books
+---
+
+![](https://pic.imgdb.cn/item/6388b73d16f2c2beb19dec11.jpg)
+
+*The Picture of Dorian Gray* is a philosophical novel written by Irish writer Oscar Wilde. It tells us that hedonism and amorality will lead the tempted to decay and death without the intention of telling it. Oscar Wilde wrote it without any moralistic intention due to his belief in aestheticism, that art itself is useless and without any social implication. So, it is a book of uncertainty, a book elevated or deprived by interpretations of different people, a world full of possibilities and diverse lenses, just like every other great novel ever written.
+
+
+
+<!-- more -->
+
+The story revolves around a portrait of Dorian Gray painted by Basil, an artist infatuated with Dorian's beauty. Through Basil, Dorian meets Lord Henry Wotton and is deeply impressed by the hedonistic worldview adopted by the aristocrats. Meaning, from then on, becomes meaningless in Dorian's life and his only occupation becomes the pursuit of sensual pleasure and outward beauty. But here comes the problem, that beauty will eventually decay. So Dorian decides that he will sell his soul and make a deal with the devil, just like Doctor Faust. And because of this evil contract, the picture, rather than he,will age and fade. The wish is granted and Dorian pursues a life of amoral experiences while staying young and beautiful. At the same time, his portrait ages and records every sin that Dorian has committed.
+
+Apart from the actual novel, its preface is already a masterpiece by itself. In the preface, Oscar Wilde states that "to reveal art and conceal artist is art's aim" and "the highest as the lowest form of criticism is a mode of autobiography", which are so profound for the understanding of art and literary criticism. If you think about Shakespeare's plays, you will find it is extremely hard to know what kind of person Shakespeare is. Because every character portraited by the artist lives in his imagination and reflects some specific trait of humanity, concealing the artist himself in the world of words. And when we are trying to read a book, we are actually looking into a dynamic mirror which shows more about us than about the book or the author. That is exactly why Wilde connects criticism and autobiography in such an intimate way. This view of art and literary criticism is essential to the understanding of this novel, for it liberates us from the dogmatic belief that it is a book of decadence and decay merely because it tells a story of hedonism. By being free,  we can think deeper and look into the inmost part of our own souls.
+
+In my opinion, this life in pursuit of sensual pleasure led by Dorian, is actually not a joyful life at all. Because it is totally devoid of meaning and only reveals its emptiness in the end, after all these fleeting passion dies away. Lasting happiness, ironically enough, is not actually something we can consciously chase after, but the by-product of some other human conducts. It is not because the expectation of joy that makes us fall in love but because we decide to love and as a result end up embracing the experience of ecstasy. Our life, is a hero's journey, a lover's journey, a journey which requires efforts and devotion, not some improvised funny game with the only intention of instant gratification. Just like Nietzsche said, "he who knows a why can bear any how", human beings naturally crave for meaning, that is what makes us "human becoming" because once guided by the intricate and complex web of meaning, we are destined to embark upon so many fabulous journey full of perils and are finally able to climb up the mountain of eternal joy. This is the happiness of maturity, of becoming truly who we can become in the end.
+
+"All art is quite useless", Oscar Wilde concludes his preface with this sentence. But is that really so? By reflecting upon the surface and symbol of art at the same time, by looking into the mirror with our deepest heart's core, we begin to discern the use of art, which might be unique to everyone's experience and can never be made universal, but always manages to guide us in the fierce storms and dark nights. "The artist is the creator of beautiful things", and we, as readers, should be artists as well.
