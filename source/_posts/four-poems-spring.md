@@ -59,7 +59,7 @@ tags:
 
 Amor Fati… Amor Fati…
 
-![img](https://raptazure.wordpress.com/wp-content/uploads/2025/02/20231003_151734.jpg?w=1024)
+![img](https://pic1.imgdb.cn/item/67a45fb0d0e0a243d4fc2a89.webp)
 
 </br>
 
