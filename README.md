@@ -7,4 +7,4 @@
 ## Generate & Deploy
 
 - `hexo g`
-- `hexo deply`
+- `hexo deploy`
