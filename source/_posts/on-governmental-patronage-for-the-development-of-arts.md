@@ -1,6 +1,6 @@
 ---
 title: On Governmental Patronage in the Development of the Arts
-date: 2024-08-10
+date: 2024-02-10
 tags:
   - Arts
   - Writings
