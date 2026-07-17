@@ -8,63 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33a782a56b4bef56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/on-chaos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "on-chaos"
-            }
-          },
-          {
-            "id": "e83abadae4c11c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/海德格尔“此在”之“畏”与“诠释”之意.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "海德格尔“此在”之“畏”与“诠释”之意"
-            }
-          },
-          {
-            "id": "95292b5b5282dd19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/思想附着的藤蔓 阿尔都塞的意识形态论与布莱克的想象论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "思想附着的藤蔓 阿尔都塞的意识形态论与布莱克的想象论"
-            }
-          },
-          {
-            "id": "707c68cce7c83b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/罗伊尔 “后理论”与“既视感”的幽灵.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "罗伊尔 “后理论”与“既视感”的幽灵"
-            }
-          },
-          {
-            "id": "a29d64a4a5843ae2",
+            "id": "383ce581e29f8b64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,35 +22,21 @@
             }
           },
           {
-            "id": "f8cbab226f48c60e",
+            "id": "b23ea378fd18aca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/反思 一场献给人文学科的葬礼.md",
+                "file": "source/_posts/结构、生成、显现.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "反思 一场献给人文学科的葬礼"
-            }
-          },
-          {
-            "id": "383ce581e29f8b64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/The Metaphysical Principles of Movement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Metaphysical Principles of Movement"
+              "title": "结构、生成、显现"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,28 +198,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "a29d64a4a5843ae2",
+  "active": "b23ea378fd18aca4",
   "lastOpenFiles": [
+    "public/2026/07/15/结构、生成、显现/index.html",
+    "public/2026/07/15/结构、生成、显现",
+    "public/2026/07/15",
+    "public/2026/07",
+    "public/archives/2026/07/index.html",
+    "public/archives/2026/07",
+    "source/_posts/反思 一场献给人文学科的葬礼.md",
+    "source/_posts/结构、生成、显现.md",
+    "source/_posts/海德格尔“此在”之“畏”与“诠释”之意.md",
+    "Postmodernism, or the Cultural Logic of Late Capitalism.md",
+    "source/_posts/on-resentment.md",
+    "source/_posts/德勒兹关键概念（一）：Philosophies.md",
+    "source/_posts/思想附着的藤蔓 阿尔都塞的意识形态论与布莱克的想象论.md",
+    "source/_posts/reflection.md",
+    "source/_posts/The Metaphysical Principles of Movement.md",
+    "source/_posts/walking-away-from-omelas.md",
+    "source/_posts/on-self.md",
+    "source/_posts/six-poems-dreamy-nights.md",
+    "source/_posts/symposium.md",
+    "source/_posts/the-loons.md",
+    "source/_posts/the-master-of-technology.md",
+    "source/_posts/westwind.md",
+    "source/_posts/罗伊尔 “后理论”与“既视感”的幽灵.md",
     "db.json",
     "public/index.html",
     "public/atom.xml",
     "public/css/style.css",
     "public/css/highlight.css",
-    "public/css/comments.css",
-    "public/css",
-    "public/2021/06/27/luminescence/index.html",
-    "public/2021/06/27/luminescence",
-    "public/2021/06/27",
-    "public/2021/06",
-    "source/_posts/The Metaphysical Principles of Movement.md",
-    "source/_posts/反思 一场献给人文学科的葬礼.md",
-    "source/_posts/德勒兹关键概念（一）：Philosophies.md",
-    "source/_posts/罗伊尔 “后理论”与“既视感”的幽灵.md",
-    "source/_posts/思想附着的藤蔓 阿尔都塞的意识形态论与布莱克的想象论.md",
-    "source/_posts/海德格尔“此在”之“畏”与“诠释”之意.md",
-    "source/_posts/on-resentment.md",
-    "source/_posts/reflection.md",
-    "source/_posts/six-poems-dreamy-nights.md",
     "source/_posts/on-chaos.md",
     "source/_posts/four-poems-spring.md"
   ]
